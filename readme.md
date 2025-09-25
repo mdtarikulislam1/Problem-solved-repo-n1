@@ -22,9 +22,9 @@
 5. [Square Digits](#5-square-digits)  
 6. [Find Next Square](#6-find-next-square)  
 7. [Filter By Number, Bolean](#7-filter-by-number-bolean)   
-9. [Vowel Count](#9-vowel-count)  
-10. [Find Minimum Number](#10-find-minimum-number)  
-11. [Summation](#11-summation)  
+8. [Vowel Count](#9-vowel-count)  
+9. [Find Minimum Number](#10-find-minimum-number)  
+10. [Summation](#11-summation)  
 
 ---
 
